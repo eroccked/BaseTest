@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FullTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CCD3E95E-C811-4AB9-AEBD-ED7838568B96}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FullTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FullTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{B51308DA-D84E-4C70-9FE3-E3AFAA349985}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FullTest">
+      <UniqueIdentifier>{584127FB-B9EC-4080-959F-B488D4A06CEF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FullTest\BatteryMan.cpp">
+      <Filter>Source\FullTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FullTest\BatteryMan.h">
+      <Filter>Source\FullTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FullTest\BatteryMan_GameMode.cpp">
+      <Filter>Source\FullTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FullTest\BatteryMan_GameMode.h">
+      <Filter>Source\FullTest</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FullTest\FullTest.Build.cs">
+      <Filter>Source\FullTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FullTest\FullTest.cpp">
+      <Filter>Source\FullTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FullTest\FullTest.h">
+      <Filter>Source\FullTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FullTest\FullTestCharacter.cpp">
+      <Filter>Source\FullTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FullTest\FullTestCharacter.h">
+      <Filter>Source\FullTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FullTest\FullTestGameMode.cpp">
+      <Filter>Source\FullTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FullTest\FullTestGameMode.h">
+      <Filter>Source\FullTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

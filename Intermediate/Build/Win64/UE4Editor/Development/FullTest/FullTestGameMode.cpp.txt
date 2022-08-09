@@ -1,0 +1,15 @@
+C:\Users\erocc\Desktop\FullTest\Intermediate\Build\Win64\UE4Editor\Development\FullTest\Definitions.FullTest.h
+C:\Users\erocc\Desktop\FullTest\Source\FullTest\FullTestGameMode.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\erocc\Desktop\FullTest\Intermediate\Build\Win64\UE4Editor\Inc\FullTest\FullTestGameMode.generated.h
+C:\Users\erocc\Desktop\FullTest\Source\FullTest\FullTestCharacter.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\erocc\Desktop\FullTest\Intermediate\Build\Win64\UE4Editor\Inc\FullTest\FullTestCharacter.generated.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FullTest",
+			"Path": "C:\\Users\\erocc\\Desktop\\FullTest\\Source\\FullTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FullTestEditor",
+			"Path": "C:\\Users\\erocc\\Desktop\\FullTest\\Source\\FullTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
